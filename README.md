@@ -19,8 +19,8 @@ Please cite our paper if you find it is useful for your research.
 
 Training: python src/main.py
 
-Testing: put pre-trained model into 'model' and python test.py
+Testing: put the pre-trained model into 'model' and python test.py
 
-The project also contains serval methods except from gcrdn including rdn, nlsn, rcan, dbpn, edrn, esrt, swinir, transms and rrdb.
+The project also contains serval methods except from gcrdn, including rdn, nlsn, rcan, dbpn, edrn, esrt, swinir, transms and rrdb.
 
 The code of gcrdn is presented at src/model/gcrdn/mymodel.py
