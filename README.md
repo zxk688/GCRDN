@@ -14,6 +14,9 @@ Please cite our paper if you find it is useful for your research.
   pages={4457-4468},
   doi={10.1109/JSTARS.2023.3273081}}
 ```
+
+# Usage
+
 Training: python src/main.py
 
 Testing: put pre-trained model into 'model' and python test.py
