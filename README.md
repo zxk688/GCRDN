@@ -1,5 +1,5 @@
 # GCRDN
-This is a repository for releasing a PyTorch implementation of our work  [GCRDN: Global Context-Driven Residual Dense Network for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10115440). **We also provide more than ten compared models for experimental tests.**
+This is a repository for releasing a PyTorch implementation of our work  [GCRDN: Global Context-Driven Residual Dense Network for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10115440). **We also provide more than ten advanced models for experimental comparision.**
 
 Please cite our paper if you find it is useful for your research.
 
